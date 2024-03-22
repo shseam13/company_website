@@ -1,0 +1,1 @@
+The slider image ration is horizontal 4 x vertical 2
